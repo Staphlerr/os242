@@ -1,3 +1,7 @@
 ---
 permalink: LINKS/
 ---
+
+- https://os.vlsm.org/ --- OS242
+- Linux Crash Course - Easy Terminal Commands for Inspecting Hardware --- Some easy-to-use commands you can use to inspect hardware. These commands will help you list PCI devices, view information about your CPU, and more.
+
