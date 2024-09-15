@@ -2,6 +2,27 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+== W02 ==
+ZCZC W02 75 L01 Open Scele for OS Quiz, OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
+ZCZC W02 200 L02 OS Classroom
+ZCZC W02 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
+ZCZC W02 30 L04 Editing the links.md
+ZCZC W02 60 L05 Study for quiz, waiting for quiz, error on quiz, and Do the quiz.
+ZCZC W02 40 L06 Reading OS Slides for quiz, and watching youtube for OS (Gnupg, Github, and C) related.
+ZCZC W02 20 L07 Doing demos for Assignment Week 2
+ZCZC W02 15 L08 Talk with friends about OS Assignment
+ZCZC W02 60 L09 Do other courses assignments
+ZCZC W02 65 L12 Assignment #02
+ZCZC W02 30 L23 Bash, Grep, and AWK for Pop Quiz 
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 120 L32 Watching youtube about OS related, and other youtuber stuffs
+ZCZC W02 30 L41 Editing mylog.txt
+ZCZC W02 30 L43 Editing myrank.txt
+ZCZC W02 10 L44 Rerun myscript.sh for Pop Quiz
+ZCZC W02 150 L73 Playing games
+ZCZC W02 75 L81 Listening to musics
+
+== W01 ==
 ZCZC W01 110 L01 Open Scele for OS Quiz, OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
 ZCZC W01 200 L02 OS Classroom
 ZCZC W01 120 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment, also editing the README.md, index.md, links.md for os242
@@ -11,11 +32,13 @@ ZCZC W01 40 L06 Reading OS Slides for quiz, and watching youtube for OS (Linux) 
 ZCZC W01 20 L07 Doing demos for Pop Quiz 01
 ZCZC W01 15 L08 Email teacher assistants about OS Assignment
 ZCZC W01 30 L09 Do other courses assignments
-ZCZC W01 240 L10 Assignment #01
+ZCZC W01 240 L11 Assignment #01
 ZCZC W01 120 L32 Watching youtube about Linux related, and other youtuber stuffs
 ZCZC W01 30 L41 Editing mylog.txt
 ZCZC W01 300 L73 Playing games
 ZCZC W01 120 L81 Listening to musics
+
+== W00 ==
 ZCZC W00 70 L01 Open Scele for OS Quiz, OS Assignment, and other courses.
 ZCZC W00 200 L02 Classroom
 ZCZC W00 105 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment
