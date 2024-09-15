@@ -12,3 +12,8 @@ Week 01
 - [How to Use Git and GitHub – a Guide for Beginners and Experienced Developers](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/)
   ~ This site is really helpful for us -as a beginner- a lot. This site explains a lot about how to and why i should do the things. 
 
+Week 02
+- [Difference Between grep, sed, and awk](https://www.baeldung.com/linux/grep-sed-awk-differences)
+  ~ This site is explaining the basics of grep, sed, and awk and the differences between them. Really helpful for beginners who is new to Linux
+- [Encrypting and Decrypting the Files Using GnuPG in Linux](https://www.geeksforgeeks.org/encrypting-and-decrypting-the-files-using-gnupg-in-linux/)
+  ~ This site explains about encrypt and decrypt using GNUPG in Linux. This thing is accordance to this week studies.
