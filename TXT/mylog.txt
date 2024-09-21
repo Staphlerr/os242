@@ -3,16 +3,21 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
 == W03 ==
-ZCZC W02 75 L01 Open Scele for OS Quiz, OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
-ZCZC W02 100 L02 OS Class
-ZCZC W02 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
-ZCZC W02 30 L04 Editing the links.md
-ZCZC W02 60 L05 Study for quiz.
-ZCZC W02 40 L06 Reading OS Slides for quiz, and watching youtube for OS (Gnupg, Github, and C) related.
-ZCZC W02 10 L07 Doing demos for Assignment Week 3
-ZCZC W02 15 L08 Talk with friends about OS Assignment
-ZCZC W02 60 L09 Do other courses assignments
-ZCZC W02 45 L13 Assignment #03
+ZCZC W03 75 L01 Open Scele for OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
+ZCZC W03 100 L02 OS Class
+ZCZC W03 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
+ZCZC W03 30 L04 Editing the links.md
+ZCZC W03 40 L06 Reading OS Slides for Pop Quiz, and watching youtube for OS (Gnupg, Github, and C) related.
+ZCZC W03 10 L07 Doing demos for Assignment Week 3
+ZCZC W03 15 L08 Talk with friends about OS Assignment
+ZCZC W03 60 L09 Do other courses assignments
+ZCZC W03 45 L13 Assignment #03
+ZCZC W03 10 L22 Extracting tarball for Pop Quiz 3-4
+ZCZC W03 10 L25 Making a C-Language program for Pop Quiz 3-4
+ZCZC W03 30 L41 Editing mylog.txt
+ZCZC W03 10 L43 Editing myrank.txt
+ZCZC W03 10 L44 Running myscript.txt for Pop Quiz 3
+ZCZC W03 100 L73 Playing games
 
 == W02 ==
 ZCZC W02 75 L01 Open Scele for OS Quiz, OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
