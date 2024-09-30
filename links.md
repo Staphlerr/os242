@@ -23,3 +23,9 @@ Week 03
   ~ The details about how to create virtual disks explained in this site. This site also explains the basic of it.
 - [Using the Make Utility and Makefiles in Linux [Guide]](https://linuxhandbook.com/using-make/)
   ~ This site explains more about the basics of makefile and how to use the make utility for building applications in Linux with a sample C project.
+
+Week 04
+- [What is Physical Address and Logical Address in Networking?](https://www.geeksforgeeks.org/what-is-physical-address-and-logical-address-in-networking/)
+  ~ Physical address and Logical address explained and easy to understand. The difference between those two also explained on this site.
+- [Pointers to Pointers in C/C++](https://youtu.be/d3kd5KbGB48?si=8BwtmudEvzzxsEpr)
+  ~ The video described about how to create pointers to pointers and use it on the code for C/C++

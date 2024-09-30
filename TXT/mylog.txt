@@ -2,7 +2,22 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-== W03 ==
+
+ZCZC W04 75 L01 Open Scele for OS Quiz, OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
+ZCZC W04 200 L02 OS Class
+ZCZC W04 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
+ZCZC W04 30 L04 Editing the links.md
+ZCZC W04 60 L05 Study for quiz and Do the quiz.
+ZCZC W04 40 L06 Reading OS Slides for quiz, and watching youtube for OS (Gnupg, Github, and C) related.
+ZCZC W04 10 L07 Demos for Assignment Week 4
+ZCZC W04 240 L09 Do other courses assignments
+ZCZC W04 30 L14 Assignment #04
+ZCZC W04 30 L25 Making Makefile and C code for Pop Quiz.
+ZCZC W04 30 L41 Editing mylog.txt
+ZCZC W04 10 L43 Editing myrank.txt
+ZCZC W04 10 L44 Running myscript.txt for Pop Quiz 4
+ZCZC W04 60 L73 Playing games
+ZCZC W04 100 L81 Listening to music
 ZCZC W03 75 L01 Open Scele for OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
 ZCZC W03 100 L02 OS Class
 ZCZC W03 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
@@ -17,9 +32,7 @@ ZCZC W03 10 L25 Making a C-Language program for Pop Quiz 3-4
 ZCZC W03 30 L41 Editing mylog.txt
 ZCZC W03 10 L43 Editing myrank.txt
 ZCZC W03 10 L44 Running myscript.txt for Pop Quiz 3
-ZCZC W03 100 L73 Playing games
-
-== W02 ==
+ZCZC W03 100 L73 Playing games.
 ZCZC W02 75 L01 Open Scele for OS Quiz, OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
 ZCZC W02 200 L02 OS Classroom
 ZCZC W02 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
@@ -37,9 +50,7 @@ ZCZC W02 30 L41 Editing mylog.txt
 ZCZC W02 30 L43 Editing myrank.txt
 ZCZC W02 10 L44 Rerun myscript.sh for Pop Quiz
 ZCZC W02 150 L73 Playing games
-ZCZC W02 75 L81 Listening to musics
-
-== W01 ==
+ZCZC W02 75 L81 Listening to musics.
 ZCZC W01 110 L01 Open Scele for OS Quiz, OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
 ZCZC W01 200 L02 OS Classroom
 ZCZC W01 120 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment, also editing the README.md, index.md, links.md for os242
@@ -53,9 +64,7 @@ ZCZC W01 240 L11 Assignment #01
 ZCZC W01 120 L32 Watching youtube about Linux related, and other youtuber stuffs
 ZCZC W01 30 L41 Editing mylog.txt
 ZCZC W01 300 L73 Playing games
-ZCZC W01 120 L81 Listening to musics
-
-== W00 ==
+ZCZC W01 120 L81 Listening to musics.
 ZCZC W00 70 L01 Open Scele for OS Quiz, OS Assignment, and other courses.
 ZCZC W00 200 L02 Classroom
 ZCZC W00 105 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment
