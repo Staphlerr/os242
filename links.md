@@ -29,3 +29,9 @@ Week 04
   ~ Physical address and Logical address explained and easy to understand. The difference between those two also explained on this site.
 - [Pointers to Pointers in C/C++](https://youtu.be/d3kd5KbGB48?si=8BwtmudEvzzxsEpr)
   ~ The video described about how to create pointers to pointers and use it on the code for C/C++
+
+Week 05
+- [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ?si=isDxT5F2imUkBQbT)
+  ~ The video (Gary) explained a lot about virtual memory of Operating Systems, how it works, MMU, paging, virtual address, and etc. This video really helps someone who tried to understand about virtual memory or recall about it.
+- [What is Virtual Memory in OS (Operating System)?](https://www.javatpoint.com/os-virtual-memory#:~:text=What%20is%20Virtual%20Memory%20in%20OS%20(Operating%20System)?%20Virtual%20Memory)
+  ~ The text explained a lot about virtual memory in operating systems, how it allows larger processes to run on limited physical memory by using secondary storage, and how demand paging manages memory with page replacement algorithms. This explanation is really helpful as it tells us how virtual memory works and its advantages and disadvantages.
