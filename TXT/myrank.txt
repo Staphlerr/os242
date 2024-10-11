@@ -10,8 +10,4 @@ ZCZC W04 mirfaknaufal
 ZCZC W04 mdlnecg
 ZCZC W05 Adiieeee
 ZCZC W05 MaulRai
-<<<<<<< HEAD
-ZCZC W05 Priyapta 
-=======
-ZCZC W05 Priyapta  
->>>>>>> f400877 (Fixing Assignment W05)
+ZCZC W05 Priyapta
