@@ -35,3 +35,9 @@ Week 05
   ~ The video (Gary) explained a lot about virtual memory of Operating Systems, how it works, MMU, paging, virtual address, and etc. This video really helps someone who tried to understand about virtual memory or recall about it.
 - [What is Virtual Memory in OS (Operating System)?](https://www.javatpoint.com/os-virtual-memory#:~:text=What%20is%20Virtual%20Memory%20in%20OS%20(Operating%20System)?%20Virtual%20Memory)
   ~ The text explained a lot about virtual memory in operating systems, how it allows larger processes to run on limited physical memory by using secondary storage, and how demand paging manages memory with page replacement algorithms. This explanation is really helpful as it tells us how virtual memory works and its advantages and disadvantages.
+
+Week 06
+- [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+  ~ This article tells about fork in Cand the function of it on Linux. Recommended for beginner who is new in C and want to learn about fork
+- [Introduction of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)
+  ~ The text explained how process management allows multiple programs to run efficiently, covering process states, scheduling, and the benefits of multitasking. It's key to understanding how an OS ensures system performance and stability.
