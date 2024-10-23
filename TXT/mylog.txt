@@ -2,6 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 75 L01 Open Scele for OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
+ZCZC W06 100 L02 OS Class
+ZCZC W06 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
+ZCZC W06 30 L04 Editing the links.md
+ZCZC W06 40 L06 Reading OS Slides and watching youtube for OS related.
+ZCZC W06 10 L07 Demos for Assignment Week 6
+ZCZC W06 240 L09 Do other courses assignments
+ZCZC W06 30 L16 Assignment #06
+ZCZC W06 30 L25 Editing Makefile and C code for Pop Quiz.
+ZCZC W06 30 L41 Editing mylog.txt
+ZCZC W06 10 L43 Editing myrank.txt
+ZCZC W06 10 L44 Running myscript.txt for Pop Quiz 6
+ZCZC W06 120 L73 Playing games
+ZCZC W06 100 L81 Listening to music
 ZCZC W05 75 L01 Open Scele for OS Pop Quiz, OS Assignment, and other courses, also opening discords for assignment and lab.
 ZCZC W05 200 L02 OS Class
 ZCZC W05 60 L03 Commit a program, push and pull from my repository for Platform-Based Programming and OS Assignment.
