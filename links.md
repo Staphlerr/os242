@@ -41,3 +41,9 @@ Week 06
   ~ This article tells about fork in Cand the function of it on Linux. Recommended for beginner who is new in C and want to learn about fork
 - [Introduction of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)
   ~ The text explained how process management allows multiple programs to run efficiently, covering process states, scheduling, and the benefits of multitasking. It's key to understanding how an OS ensures system performance and stability.
+
+Week 07
+- [Process Synchronization: Achieving Order and Coordination](https://www.tutorialspoint.com/process-synchronization-achieving-order-and-coordination)
+  ~ The link explains process synchronization in operating systems, focusing on methods like semaphores, monitors, and mutual exclusion to manage concurrent processes. It's interesting because it highlights the importance of preventing issues like race conditions and deadlocks in multi-threaded environments.
+- [Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ)
+  ~ The link explains deadlocks in operating systems, covering how they occur and methods to handle or prevent them. It's interesting because it highlights practical strategies like preemption, rollback, and killing processes to resolve deadlocks, which are essential for maintaining system stability.
