@@ -47,3 +47,9 @@ Week 07
   ~ The link explains process synchronization in operating systems, focusing on methods like semaphores, monitors, and mutual exclusion to manage concurrent processes. It's interesting because it highlights the importance of preventing issues like race conditions and deadlocks in multi-threaded environments.
 - [Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ)
   ~ The link explains deadlocks in operating systems, covering how they occur and methods to handle or prevent them. It's interesting because it highlights practical strategies like preemption, rollback, and killing processes to resolve deadlocks, which are essential for maintaining system stability.
+
+Week 08
+- [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+  ~ This site provides a comprehensive overview of process scheduling, detailing essential concepts like schedulers, scheduling types, and context switching, which are critical for understanding how multitasking is managed in operating systems. It's highly useful for learners seeking a structured explanation of these topics.
+- [CPU Scheduling Algorithms: Optimizing Process Execution in Modern Operating Systems](https://technobyte.org/cpu-scheduling-algorithms-modern-operating-systems)
+  ~ This resource provides an in-depth exploration of CPU scheduling algorithms, covering essential concepts, real-world implications, and performance metrics. It's recommended for readers who seek a solid foundation in OS scheduling principles and their impact on overall system performance and efficiency.
