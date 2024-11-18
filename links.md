@@ -53,3 +53,9 @@ Week 08
   ~ This site provides a comprehensive overview of process scheduling, detailing essential concepts like schedulers, scheduling types, and context switching, which are critical for understanding how multitasking is managed in operating systems. It's highly useful for learners seeking a structured explanation of these topics.
 - [CPU Scheduling Algorithms: Optimizing Process Execution in Modern Operating Systems](https://technobyte.org/cpu-scheduling-algorithms-modern-operating-systems)
   ~ This resource provides an in-depth exploration of CPU scheduling algorithms, covering essential concepts, real-world implications, and performance metrics. It's recommended for readers who seek a solid foundation in OS scheduling principles and their impact on overall system performance and efficiency.
+
+Week 09
+- [Mass Storage Structure in Operating Systems](https://www.javatpoint.com/mass-storage-structure-in-operating-systems)
+  ~ This tutorial provides a comprehensive introduction to mass storage structures in operating systems, covering primary and secondary memory types, magnetic disks, solid-state drives (SSDs), and magnetic tapes. It explains each storage type's role, functionality, and advantages in a beginner-friendly way, using clear descriptions and examples. This is ideal for beginners because it builds foundational knowledge, clarifies basic concepts, and introduces essential storage terminology in an easily digestible format.
+- [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
+  ~ This tutorial is beginner-friendly as it explains storage hierarchies, showing how fast, temporary storage (like cache) complements slower, permanent storage (like hard drives) to balance speed and cost.
