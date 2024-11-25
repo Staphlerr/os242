@@ -59,3 +59,9 @@ Week 09
   ~ This tutorial provides a comprehensive introduction to mass storage structures in operating systems, covering primary and secondary memory types, magnetic disks, solid-state drives (SSDs), and magnetic tapes. It explains each storage type's role, functionality, and advantages in a beginner-friendly way, using clear descriptions and examples. This is ideal for beginners because it builds foundational knowledge, clarifies basic concepts, and introduces essential storage terminology in an easily digestible format.
 - [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
   ~ This tutorial is beginner-friendly as it explains storage hierarchies, showing how fast, temporary storage (like cache) complements slower, permanent storage (like hard drives) to balance speed and cost.
+
+Week 10
+- [Operating System Input Output I/O](https://www.w3schools.in/operating-system/input-output)
+  ~ This article clearly explains I/O basics and device management, making it beginner-friendly. It highlights key concepts like registers, handshaking, and OS roles.
+- [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
+  ~ This video is ideal for beginners as it clearly explains key I/O concepts like device controllers, drivers, and DMA with a structured timeline for easy navigation. It simplifies complex topics and focuses on practical workflows, making it accessible and engaging.
